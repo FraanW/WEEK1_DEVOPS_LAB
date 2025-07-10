@@ -7,6 +7,6 @@ git readme file should be here.
 
 -- "necessary" changes
 
+-- "necessary" changes pt.2 
 
--- "necessary" changes pt.2
- 
+-- "necessary" changes pt.3
