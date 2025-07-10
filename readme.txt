@@ -6,3 +6,7 @@ git readme file should be here.
 -- change4
 
 -- "necessary" changes
+
+
+-- "necessary" changes pt.2
+ 
