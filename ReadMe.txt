@@ -10,3 +10,5 @@ git readme file should be here.
 -- "necessary" changes pt.2 
 
 -- "necessary" changes pt.3
+
+-- "necessary" changes pt.4
